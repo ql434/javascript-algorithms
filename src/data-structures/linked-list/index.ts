@@ -32,4 +32,10 @@ export default class LinkedList {
     this.compareFn = compareFn;
   }
 
+  prepend(){
+
+  }
+
+
+
 }
